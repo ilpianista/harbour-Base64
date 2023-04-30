@@ -16,7 +16,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
         <source>Base64 to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Base64 do tekstu</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
