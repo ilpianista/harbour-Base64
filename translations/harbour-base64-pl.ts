@@ -32,7 +32,7 @@
         <location filename="../qml/pages/MainPage.qml" line="83"/>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>Encode</source>
-        <translation type="unfinished"></translation>
+        <translation>Koduj</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
